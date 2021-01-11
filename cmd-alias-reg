@@ -1,0 +1,5 @@
+reg:
+Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Command Processor
+Autorun
+DOSKEY /MACROFILE="C:\tools\custom-command\macros.doskey"
+===
